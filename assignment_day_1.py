@@ -9,7 +9,7 @@ sum = 0
 while True:
   number = int(input("Enter the number :"))
   sum += number
-  22
+  
 
   choice = input("Want to sum another number ? (y/n) :")
   if choice.casefold() == 'n':
