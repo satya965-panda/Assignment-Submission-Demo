@@ -16,10 +16,3 @@ while True:
       break;
 
 print(f"sum : {sum}")
-
-
-# In[ ]:
-
-
-
-
